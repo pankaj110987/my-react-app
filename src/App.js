@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Editxxx <code>src/App.js</code> and save to reload.
+          Git automation <code>src/App.js</code> and save to reload.
         </p>
         <a
           className="App-link"
